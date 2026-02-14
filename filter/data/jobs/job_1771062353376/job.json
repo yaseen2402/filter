@@ -1,0 +1,10 @@
+{
+  "jobTitle": "Artificial Intelligence & Machine Learning Engineer",
+  "company": "seastone",
+  "location": "Hyderabad, Telangana, IND",
+  "jobType": "full-time",
+  "description": "Results-driven AI/ML Engineer with a strong academic foundation in Computer Science and ongoing Master\u2019s specialization in Artificial Intelligence and Machine Learning. Experienced in developing, fine-tuning, and deploying machine learning and large language models, building end-to-end AI systems, and optimizing data processing pipelines.\n\nSkilled in Python-based development, model fine-tuning techniques (QLoRA, PEFT), Retrieval-Augmented Generation (RAG) systems, and scalable cloud deployments. Demonstrated ability to improve model performance through benchmark-driven experimentation and resource-efficient training strategies.\n\nHands-on experience building production-ready AI applications, including generative AI platforms, legal research systems, and data transformation pipelines. Proficient in backend development, cloud services (GCP, AWS), containerization (Docker), and mobile app integration.\n\nStrong collaborator with experience working alongside data teams to clean, validate, and structure datasets for downstream AI applications. Passionate about optimizing model quality, improving code robustness, and designing scalable AI-driven solutions.",
+  "requirements": "Large Language Model Fine-tuning & Evaluation\n\nRetrieval-Augmented Generation (RAG) Systems\n\nModel Optimization & Benchmarking\n\nPython Development & Automation\n\nBackend APIs (FastAPI, Express)\n\nCloud Deployment (GCP, AWS)\n\nDocker & Reproducible ML Pipelines\n\nData Processing & Curation",
+  "salary": "",
+  "submittedAt": "2026-02-14T09:45:53.376Z"
+}

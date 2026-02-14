@@ -1,0 +1,188 @@
+{
+  "codeforces": {
+    "platform": "codeforces",
+    "username": "Benq",
+    "rating": 3792,
+    "max_rating": 3833,
+    "rank": "legendary grandmaster",
+    "max_rank": "legendary grandmaster",
+    "contribution": 70,
+    "contests_participated": 166,
+    "friend_count": 19643,
+    "profile_url": "https://codeforces.com/profile/Benq"
+  },
+  "leetcode": {
+    "platform": "leetcode",
+    "username": "fjzzq2002",
+    "ranking": 626878,
+    "reputation": 0,
+    "total_solved": 227,
+    "total_questions": 3837,
+    "easy_solved": 111,
+    "total_easy": 925,
+    "medium_solved": 87,
+    "total_medium": 2005,
+    "hard_solved": 29,
+    "total_hard": 907,
+    "acceptance_rate": 70.72,
+    "contribution_points": 20919,
+    "profile_url": "https://leetcode.com/u/fjzzq2002/"
+  },
+  "linkedin": {
+    "platform": "linkedin",
+    "full_name": "Bill Gates",
+    "first_name": "Bill",
+    "last_name": "Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "summary": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "location": "Seattle, Washington, United States",
+    "connections": "8 connections",
+    "follower_count": "40M followers",
+    "profile_pic_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k",
+    "background_image_url": "https://media.licdn.com/dms/image/v2/D5616AQEjhPbTCeblYg/profile-displaybackgroundimage-shrink_200_800/B56ZcytR5SGsAc-/0/1748902420393?e=2147483647&v=beta&t=a-tBeZkxzWTHWYY6MAjxt0oTEuxlW33EUkK3gm5_te4",
+    "description": {
+      "description1": "Gates Foundation",
+      "description1_link": "https://www.linkedin.com/company/gates-foundation?trk=public_profile_topcard-current-company",
+      "description2": "Harvard University",
+      "description2_link": "https://www.linkedin.com/school/harvard-university/?trk=public_profile_topcard-school",
+      "description3": "Blog",
+      "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgatesnot%2Ees%2Fsourcecode-li&urlhash=Zl5S&trk=public_profile_topcard-website"
+    },
+    "experiences": [
+      {
+        "title": "Co-chair",
+        "company": "Gates Foundation",
+        "company_url": "https://www.linkedin.com/company/gates-foundation?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_100_100/company-logo_100_100/0/1736784969376/bill__melinda_gates_foundation_logo?e=2147483647&v=beta&t=2JH2cMcZms60vPAMbvVZyMeYXosQ1Jjy5axDlyeQ1Ww",
+        "location": null,
+        "start_date": "2000",
+        "end_date": "Present",
+        "duration": "26 years",
+        "description": null
+      },
+      {
+        "title": "Founder",
+        "company": "Breakthrough Energy",
+        "company_url": "https://www.linkedin.com/company/breakthrough-energy?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQFRMYiQN7-2kA/company-logo_100_100/B56ZoI4SGPI0AQ-/0/1761085563539/breakthrough_energy_logo?e=2147483647&v=beta&t=J6RbEvs17fl1uiEaXQm0hmXy4imx36mV_Hu80JcR1DE",
+        "location": null,
+        "start_date": "2015",
+        "end_date": "Present",
+        "duration": "11 years",
+        "description": null
+      },
+      {
+        "title": "Co-founder",
+        "company": "Microsoft",
+        "company_url": "https://www.linkedin.com/company/microsoft?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_image": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+        "location": null,
+        "start_date": "1975",
+        "end_date": "Present",
+        "duration": "51 years",
+        "description": null
+      }
+    ],
+    "education": [
+      {
+        "school": null,
+        "school_url": null,
+        "degree": null,
+        "field_of_study": null,
+        "start_date": null,
+        "end_date": null,
+        "grade": null,
+        "activities": null,
+        "description": null
+      },
+      {
+        "school": null,
+        "school_url": null,
+        "degree": null,
+        "field_of_study": null,
+        "start_date": null,
+        "end_date": null,
+        "grade": null,
+        "activities": null,
+        "description": null
+      }
+    ],
+    "publications": [],
+    "projects": [],
+    "certifications": [],
+    "courses": [],
+    "languages": [],
+    "volunteering": [],
+    "awards": [],
+    "organizations": [],
+    "skills": [],
+    "recent_activities": [
+      {
+        "title": "I’m hopeful that the new year means new solutions—and renewed momentum—in the fight to save and improve lives around the world.",
+        "link": "https://www.linkedin.com/posts/williamhgates_im-hopeful-that-the-new-year-means-new-solutionsand-activity-7416689022678384641-hvOz",
+        "activity_type": "Shared by Bill Gates"
+      },
+      {
+        "title": "Friends and colleagues often ask me how I stay optimistic during hard times. Lately, that has become a difficult question to answer. The truth is, I…",
+        "link": "https://www.linkedin.com/posts/williamhgates_friends-and-colleagues-often-ask-me-how-i-activity-7415460149433118720-03f5",
+        "activity_type": "Shared by Bill Gates"
+      },
+      {
+        "title": "Losing my dad to this disease makes the fight for Alzheimer’s breakthroughs very personal to me. Recent advancements in Alzheimer’s diagnostics…",
+        "link": "https://www.linkedin.com/posts/williamhgates_a-new-era-for-alzheimers-disease-diagnosis-activity-7415185312454193152-FXVY",
+        "activity_type": "Shared by Bill Gates"
+      },
+      {
+        "title": "Maternal imaging is a critical way to detect issues early on and help prevent complications from pregnancy and childbirth. But typical ultrasounds…",
+        "link": "https://www.linkedin.com/posts/williamhgates_bbc-world-service-people-fixing-the-world-activity-7414839546972045312-EaiT",
+        "activity_type": "Shared by Bill Gates"
+      },
+      {
+        "title": "Truly impressive work and innovation from every team.",
+        "link": "https://www.linkedin.com/posts/williamhgates_truly-impressivework-and-innovation-from-activity-7414403835252768768--mO6",
+        "activity_type": "Shared by Bill Gates"
+      }
+    ],
+    "profile_url": "https://www.linkedin.com/in/williamhgates",
+    "profile_id": "williamhgates",
+    "provider": "scrapingdog"
+  },
+  "github": {
+    "platform": "github",
+    "username": "benq",
+    "name": null,
+    "bio": null,
+    "company": null,
+    "location": null,
+    "email": null,
+    "blog": "",
+    "twitter_username": null,
+    "public_repos": 2,
+    "public_gists": 0,
+    "followers": 3,
+    "following": 0,
+    "created_at": "2010-04-14T20:30:29Z",
+    "updated_at": "2016-02-26T23:06:33Z",
+    "total_stars_earned": 1,
+    "total_forks_earned": 1,
+    "top_languages": [
+      {
+        "language": "Ruby",
+        "repo_count": 2
+      }
+    ],
+    "top_repositories": [
+      {
+        "name": "tfbslib",
+        "description": "wrapper for some tfbs bs prediction tools",
+        "stars": 0,
+        "forks": 0,
+        "language": "Ruby",
+        "url": "https://github.com/benq/tfbslib",
+        "topics": []
+      }
+    ],
+    "profile_url": "https://github.com/benq",
+    "avatar_url": "https://avatars.githubusercontent.com/u/244132?v=4"
+  }
+}

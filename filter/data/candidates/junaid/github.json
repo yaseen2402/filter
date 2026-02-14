@@ -1,0 +1,53 @@
+{
+  "platform": "github",
+  "username": "MJAdil",
+  "name": "JUNAID",
+  "bio": null,
+  "company": null,
+  "location": null,
+  "email": null,
+  "blog": "",
+  "twitter_username": null,
+  "public_repos": 2,
+  "public_gists": 0,
+  "followers": 0,
+  "following": 0,
+  "created_at": "2024-12-13T05:43:30Z",
+  "updated_at": "2026-02-14T05:51:05Z",
+  "total_stars_earned": 1,
+  "total_forks_earned": 0,
+  "top_languages": [
+    {
+      "language": "Python",
+      "repo_count": 2
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "GAN-IDS",
+      "description": "Building an Intrusion Detection System by leveraging Generative AI",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "url": "https://github.com/MJAdil/GAN-IDS",
+      "topics": [
+        "generative-adversarial-network",
+        "generative-ai",
+        "intrusion-detection-system",
+        "nsl-kdd",
+        "python3"
+      ]
+    },
+    {
+      "name": "Career-Counselor-Chatbot-Rule-Based",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "url": "https://github.com/MJAdil/Career-Counselor-Chatbot-Rule-Based",
+      "topics": []
+    }
+  ],
+  "profile_url": "https://github.com/MJAdil",
+  "avatar_url": "https://avatars.githubusercontent.com/u/191556408?v=4"
+}

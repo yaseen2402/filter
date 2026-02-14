@@ -1,0 +1,15 @@
+{
+  "username": "seen",
+  "profile_urls": {
+    "linkedin": "https://www.linkedin.com/in/mohammed-yaseen-0966b6235/",
+    "github": "https://github.com/yaseen2402",
+    "leetcode": "https://leetcode.com/u/m_yaseen2402/",
+    "codeforces": "https://codeforces.com/profile/Benq"
+  },
+  "fetched_at": "2026-02-14T15:03:32.481256",
+  "platforms_fetched": [
+    "codeforces",
+    "leetcode",
+    "github"
+  ]
+}
