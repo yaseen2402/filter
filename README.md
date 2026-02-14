@@ -1,6 +1,7 @@
 # Filter - Candidate Ranking Platform
 
-## Contributors:
+## Contributors
+
 Mohammed Yaseen
 Mohammed Junaid Adil
 Eshwar
