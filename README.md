@@ -2,9 +2,9 @@
 
 ## Contributors
 
-Mohammed Yaseen
-Mohammed Junaid Adil
-Eshwar
+- Mohammed Yaseen
+- Mohammed Junaid Adil
+- Eshwar
 
 An intelligent job matching system that evaluates candidates across multiple platforms using an adaptive scoring algorithm with confidence-based ranking.
 
